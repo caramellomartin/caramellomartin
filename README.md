@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Martín Caramello
 
-Soy un desarrollador web apasionado por crear experiencias digitales rápidas, intuitivas y accesibles. Me gusta involucrarme en todas las etapas del desarrollo; desde el diseño hasta la lógica del servidor.
-Me motiva construir aplicaciones que sumen valor real, trabajar en equipo y enfrentar desafíos que requieran que siga creciendo como profesional. Abajo te dejo algunos de los proyectos con los que he estado trabajando y aprendiendo mucho.
+Desarrollador web apasionado por crear experiencias digitales rápidas, intuitivas y accesibles. Me gusta involucrarme en todas las etapas del desarrollo; desde el diseño hasta la lógica del servidor.
+Me motiva construir aplicaciones que sumen valor real, trabajar en equipo y enfrentar desafíos que requieran que siga creciendo como profesional. Acabo de finalizar mis estudios de Grado Superior en Desarrollo de Aplicaciones Web y estoy en busca de nuevos desafíos!
 
 ## 🚀 Habilidades
 
@@ -12,16 +12,16 @@ Actualmente me enfoco en tecnologías como:
 - ⚡ Vite
 - 🎨 Tailwind CSS
 - 🐍 Node.js / Express
-- 🐘 PostgreSQL / MongoDB / MySQL
+- 💾 PostgreSQL / MongoDB / MySQL
 - ☁️ Netlify
 
 ## 📂 Proyectos
 
-Si querés ver alguno de mis proyectos en los que estuve trabajando y aprendiendo, te dejo el link a mi web en netlify.
+Si querés ver y probar alguno de mis proyectos en los que estuve trabajando y aprendiendo, te dejo el link a mi web en netlify.
 
 👉 https://martin-caramello-cv-web.netlify.app/
 
-## 📫 Contáctame
+## 📫 Medios de contacto
 
 Actualmente estoy buscando trabajo para crecer tanto personal como profesionalmente en este mundo tan lindo como es el del desarrollo de aplicaciones. Te dejo los medios de contacto y te agradecería mucho que me ayudes recomendando algún puesto acorde a mis capacidades 😊
 
