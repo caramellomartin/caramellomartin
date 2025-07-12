@@ -17,16 +17,16 @@ Actualmente me enfoco en tecnologías como:
 
 ## 📂 Proyectos
 
-Si querés ver alguno de mis proyectos en los que estuve trabajando y aprendiendo, te dejo el link a mi web en netlify
+Si querés ver alguno de mis proyectos en los que estuve trabajando y aprendiendo, te dejo el link a mi web en netlify.
+
 👉 https://martin-caramello-cv-web.netlify.app/
 
 ## 📫 Contáctame
 
 Actualmente estoy buscando trabajo para crecer tanto personal como profesionalmente en este mundo tan lindo como es el del desarrollo de aplicaciones. Te dejo los medios de contacto y te agradecería mucho que me ayudes recomendando algún puesto acorde a mis capacidades 😊
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/caramellomartin/](https://www.linkedin.com/in/martin-caramello/))
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/martin-caramello/)
 - 📧 [Email](mailto:martincaramelloutn@gmail.com)
 
---
-
+##
 _Gracias por visitar mi perfil 😊_
